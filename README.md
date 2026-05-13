@@ -2,7 +2,7 @@
 
 **Software Engineer** · Penn State CS · Philadelphia, PA
 
-I build AI-native tools and full-stack systems — usually things I actually need. Currently shipping a nonprofit shelter portal at [DOGSRUN](https://dogsrun.org) and wrapping up my CS degree at Penn State Abington (Dec 2026).
+I build AI-native tools and full-stack systems — usually things I actually need. Currently shipping a shelter portal at [DOGSRUN](https://dogsrun.org) and wrapping up my CS degree at Penn State Abington (Dec 2026).
 
 ---
 
